@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyFablix</string>
+
+
+    <string name="login_page">SIGN IN</string>
+    <string name="password_text">Password</string>
+    <string name="email_text">Email</string>
+    <string name="email_error">Invalid email</string>
+    <string name="email_empty_error">No email is entered</string>
+    <string name="password_error">Password is not correct</string>
+    <string name="login_button">Log in</string>
+
+
+    <string name="movie_search_page">SEARCH MOVIES BY TITLE</string>
+    <string name="movie_search_edit_text_hint">Enter movies title here</string>
+    <string name="search_button">Search</string>
+</resources>
